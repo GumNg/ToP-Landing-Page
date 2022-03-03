@@ -21,3 +21,10 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    flex: 0 0 20%;
+    list-style: none;
+}
