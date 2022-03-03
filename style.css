@@ -34,7 +34,12 @@ ul {
     list-style: none;
 }
 
-
+.containter2 {
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 100%;
+    margin-bottom: 30px;
+}
 
 .footer {
     background: #1F2937;
