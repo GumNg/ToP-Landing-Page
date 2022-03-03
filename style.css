@@ -28,3 +28,11 @@ ul {
     flex: 0 0 20%;
     list-style: none;
 }
+
+.footer {
+    background: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
