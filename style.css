@@ -41,6 +41,10 @@ ul {
     margin-bottom: 30px;
 }
 
+.map {
+    max-width: 300px;
+}
+
 .footer {
     background: #1F2937;
     color: white;
