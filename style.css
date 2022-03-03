@@ -14,3 +14,10 @@ body {
     justify-content: space-between;
     flex-grow: 1;
 }
+
+.header {
+    background: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
