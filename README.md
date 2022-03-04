@@ -9,7 +9,7 @@ Brandon Sanderson and his team at Dragonsteel Entertainment
 
 ---
 
-Stormlight Archieve Wiki
+Stormlight Archive Wiki
 - Cosmere Constellation Map https://stormlightarchive.fandom.com/wiki/Cosmere?file=Cosmere_IS.jpg
 - Nalthis World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Nalthis_IS.jpg#Nalthis
 - Scadrial World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Scadrial_IC.jpg#Nalthis
