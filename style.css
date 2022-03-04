@@ -67,6 +67,12 @@ a {
     max-width: 300px;
 }
 
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .footer {
     background: #1F2937;
     color: white;
