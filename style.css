@@ -51,6 +51,14 @@ a {
     margin-bottom: 30px;
 }
 
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .map {
     max-width: 300px;
 }
