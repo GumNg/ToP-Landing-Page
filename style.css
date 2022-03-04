@@ -78,6 +78,10 @@ h2 {
     justify-content: space-evenly;
 }
 
+.cos1 {
+    max-height: 150px;
+}
+
 .footer {
     background: #1F2937;
     color: white;
