@@ -59,6 +59,10 @@ a {
     flex-wrap: wrap;
 }
 
+.intro {
+    width: 300px;
+}
+
 .map {
     max-width: 300px;
 }
