@@ -84,8 +84,9 @@ h2 {
     align-items: center;
 }
 
-.cos1 {
+.nalimg, .scadimg, .roshimg {
     max-height: 150px;
+    border-radius: 25px;
 }
 
 .footer {
