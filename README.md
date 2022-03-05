@@ -16,5 +16,12 @@ Stormlight Archive Wiki
 
 ---
 
+Coppermind Wiki 
+- Information on Allomancy https://coppermind.net/wiki/Allomancy
+- Information on Awakening https://coppermind.net/wiki/Awakening
+- Information on Surgebinding https://coppermind.net/wiki/Awakening
+
+---
+
 Reddit
 - u/alkonium Cosmere logo https://www.reddit.com/r/Cosmere/comments/5tib5n/all_cosmere_logo_i_came_up_with_based_on_the/
