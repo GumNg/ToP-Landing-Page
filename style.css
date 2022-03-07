@@ -102,6 +102,13 @@ h2 {
     width: 300px;
 }
 
+.qsec {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer {
     background: #1F2937;
     color: white;
