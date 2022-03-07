@@ -34,7 +34,10 @@ ul {
     list-style: none;
 }
 
-
+li, .intro {
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
 a {
     color: white;
