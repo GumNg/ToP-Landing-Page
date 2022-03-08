@@ -110,6 +110,10 @@ h2 {
     padding: 50px;
 }
 
+.qcont {
+    width: 500px;
+}
+
 .quote {
     font-size: 36px;
     font-style: italic;
