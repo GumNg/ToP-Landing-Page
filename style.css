@@ -34,7 +34,7 @@ ul {
     list-style: none;
 }
 
-li, .intro {
+li, .intro, .footer {
     font-size: 18px;
     color: #e5e7eb;
 }
