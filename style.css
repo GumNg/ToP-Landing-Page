@@ -121,6 +121,15 @@ h2 {
     color: #1F2937;
 }
 
+.author {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
 .footer {
     background: #1F2937;
     display: flex;
