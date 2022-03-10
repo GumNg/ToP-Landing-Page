@@ -19,7 +19,7 @@ Stormlight Archive Wiki
 Coppermind Wiki 
 - Information on Allomancy https://coppermind.net/wiki/Allomancy
 - Information on Awakening https://coppermind.net/wiki/Awakening
-- Information on Surgebinding https://coppermind.net/wiki/Awakening
+- Information on Surgebinding https://coppermind.net/wiki/Surgebinding
 
 ---
 
