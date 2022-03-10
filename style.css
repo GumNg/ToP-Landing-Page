@@ -129,6 +129,14 @@ h2 {
     justify-content: flex-end;
 }
 
+.join-cont {
+    background-color: #1F2937;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 700px;
+    display: flex;
+}
 
 .footer {
     background: #1F2937;
