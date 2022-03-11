@@ -37,6 +37,7 @@ ul {
 li, .intro, .footer {
     font-size: 18px;
     color: #e5e7eb;
+    padding: 10px;
 }
 
 a {
