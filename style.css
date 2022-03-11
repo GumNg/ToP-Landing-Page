@@ -138,9 +138,10 @@ h2 {
     background-color: #1F2937;
     color: white;
     margin: 20px;
-    padding: 20px;
-    width: 700px;
+    padding: 10px;
+    width: 600px;
     display: flex;
+    justify-content: space-around;
 }
 
 .btn {
