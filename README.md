@@ -6,7 +6,7 @@ I'll be using HTML and CSS concepts i've learned through The Odin Project so far
 ### Credit
 Brandon Sanderson and his team at Dragonsteel Entertainment
 - Roshar/Stormlight logo https://www.brandonsanderson.com/alternate-stormlight-symbol-reveal/ 
-
+- Welcome to the Cosmere https://www.brandonsanderson.com/what-is-the-cosmere/
 ---
 
 Stormlight Archive Wiki
