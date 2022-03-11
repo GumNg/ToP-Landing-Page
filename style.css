@@ -45,7 +45,7 @@ a {
     text-decoration: none;
 }
 
-.container2 {
+.header-txt {
     display: flex;
     justify-content: space-around;
     flex-basis: 100%;
@@ -58,7 +58,7 @@ h1 {
     color: #f9faf8;
 }
 
-.info {
+.intro {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -66,7 +66,7 @@ h1 {
     flex-wrap: wrap;
 }
 
-.intro {
+.info {
     width: 600px;
 }
 
