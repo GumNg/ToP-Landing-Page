@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
 }
 
-.container1 {
+.main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
