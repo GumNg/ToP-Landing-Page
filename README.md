@@ -15,6 +15,7 @@ Stormlight Archive Wiki
 - Nalthis World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Nalthis_IS.jpg#Nalthis
 - Taldain World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Taldain_IC.jpg#Sel
 - Scadrial World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Scadrial_IC.jpg#Nalthis
+- Information on The Cosmere https://stormlightarchive.fandom.com/wiki/Cosmere
 
 ---
 
