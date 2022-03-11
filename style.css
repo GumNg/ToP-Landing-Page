@@ -143,6 +143,12 @@ h2 {
     display: flex;
 }
 
+.btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .footer {
     background: #1F2937;
     display: flex;
