@@ -87,13 +87,13 @@ h2 {
     justify-content: space-evenly;
 }
 
-.nal, .scad, .rosh {
+.sel, .nal, .scad, .tald, .rosh {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.nalimg, .scadimg, .roshimg {
+.selimg, .nalimg, .scadimg, .taldimg, .roshimg {
     max-height: 150px;
     border-radius: 25px;
 }
