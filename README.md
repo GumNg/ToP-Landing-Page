@@ -11,7 +11,9 @@ Brandon Sanderson and his team at Dragonsteel Entertainment
 
 Stormlight Archive Wiki
 - Cosmere Constellation Map https://stormlightarchive.fandom.com/wiki/Cosmere?file=Cosmere_IS.jpg
+- Sel World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Sel_IC.jpg#Sel
 - Nalthis World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Nalthis_IS.jpg#Nalthis
+- Taldain World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Taldain_IC.jpg#Sel
 - Scadrial World Logo https://stormlightarchive.fandom.com/wiki/Cosmere?file=Scadrial_IC.jpg#Nalthis
 
 ---
