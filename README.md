@@ -20,6 +20,11 @@ Stormlight Archive Wiki
 ---
 
 Coppermind Wiki 
+- Information on the World of Sel https://coppermind.net/wiki/Sel
+- Information on the World of Nalthis https://coppermind.net/wiki/Nalthis
+- Information on the World of Scadrial https://coppermind.net/wiki/Scadrial
+- Information on the World of Taldain https://coppermind.net/wiki/Taldain
+- Information on the World of Roshar https://coppermind.net/wiki/Roshar
 - Information on AonDor https://coppermind.net/wiki/AonDor
 - Information on Awakening https://coppermind.net/wiki/Awakening
 - Information on Allomancy https://coppermind.net/wiki/Allomancy
